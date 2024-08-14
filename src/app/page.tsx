@@ -147,7 +147,7 @@ export default function Component() {
                 </ul>
               </div>
               <img
-                src="/placeholder.svg"
+                src="https://images.unsplash.com/photo-1676050552641-42d53f4c9713?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                 width="550"
                 height="310"
                 alt="Features"
@@ -174,7 +174,7 @@ export default function Component() {
               <Card className="p-6 space-y-4 bg-white shadow-md rounded-md">
                 <div className="flex items-center space-x-4">
                   <Avatar>
-                    <AvatarImage src="/placeholder-user.jpg" />
+                    <AvatarImage src="https://images.unsplash.com/photo-1676050552641-42d53f4c9713?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" />
                     <AvatarFallback>JD</AvatarFallback>
                   </Avatar>
                   <div>
@@ -194,7 +194,7 @@ export default function Component() {
               <Card className="p-6 space-y-4 bg-white shadow-md rounded-md">
                 <div className="flex items-center space-x-4">
                   <Avatar>
-                    <AvatarImage src="/placeholder-user.jpg" />
+                    <AvatarImage src="https://images.unsplash.com/photo-1676050552641-42d53f4c9713?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" />
                     <AvatarFallback>JD</AvatarFallback>
                   </Avatar>
                   <div>
@@ -214,7 +214,7 @@ export default function Component() {
               <Card className="p-6 space-y-4 bg-white shadow-md rounded-md">
                 <div className="flex items-center space-x-4">
                   <Avatar>
-                    <AvatarImage src="/placeholder-user.jpg" />
+                    <AvatarImage src="https://images.unsplash.com/photo-1676050552641-42d53f4c9713?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" />
                     <AvatarFallback>JD</AvatarFallback>
                   </Avatar>
                   <div>
